@@ -1,0 +1,12 @@
+{
+  "service": "CREATOR",
+  "cspDomains": {
+    "connect-src": [
+      "https://fonts.googleapis.com/css*",
+      "https://kit.fontawesome.com/*",
+      "https://ka-f.fontawesome.com/releases/v6.5.1/css/",
+      "https://redacted-opmetrix-pricing.azurewebsites.net/api/redacted"
+    ]
+  },
+  "config": []
+}

@@ -1,0 +1,165 @@
+{
+  "GroupName": "Main Categories",
+  "Categories": [
+    {
+      "GroupName": "Anchoring",
+      "ImageUrl": "./content/Anchoring_black.svg",
+      "CategoryGroupName": "Range",
+      "Categories": [
+        {
+          "GroupName": "Masonary Anchoring",
+          "Categories": [
+            {
+              "GroupName": "Light Duty Anchoring",
+              "Categories": [
+                "Alex Plug",
+                "Bettadrive Anchors",
+                "Bettadrive Anchors w/ Hook",
+                "Brick Plugs",
+                "DBZ Metal Pin Anchor",
+                "Frame Anchors",
+                "Macdrive Anchors",
+                "MacNuts",
+                "MacNuts - w/ Screw",
+                "Macplugs",
+                "Metal Frame Anchors",
+                "Mickey Pins",
+                "Nail In Plugs",
+                "Red Spaghetti",
+                "Screw Eye Hook",
+                "Superplugs",
+                "Wall Grabs",
+                "Wallplugs",
+                "Xmas Tree Anchors"
+              ]
+            },
+            {
+              "GroupName": "Medium Duty Anchoring",
+              "Categories": [
+                { "GroupName": "Anchor Screw", "Categories": ["Button Head"] },
+                "Cable Girder Clips",
+                "Concrete Insert Ferrule",
+                { "GroupName": "Conscrew Anchor", "Categories": ["Countersunk Head", "Hex Head"] },
+                {
+                  "GroupName": "Drop Leg Anchor",
+                  "Categories": ["Countersunk Head", "Mushroom Head", "10mm Eclipse Threaded Rod Head", "Tie Wire Head"]
+                },
+                { "GroupName": "Drop In Anchor", "Categories": ["Flanged", "Straight Sides"] },
+                "Drop In Anchor Setting Tool",
+                "Hollow Set Drop In Anchor",
+                "Internal Threaded Tie Wire",
+                "Mac Loc Anchors",
+                {
+                  "GroupName": "Masonbolt",
+                  "Categories": [
+                    "Hex Head",
+                    "Eye Bolt Head",
+                    "Countersunk Head",
+                    "Flush Head",
+                    "Swag Hook Head",
+                    "Round Head"
+                  ]
+                },
+                { "GroupName": "Masonbolt Post Screw", "Categories": ["Countersunk Head", "Round Head"] },
+                { "GroupName": "Masonbolt Post Screw Head", "Categories": ["Countersunk Head"] },
+                "Nailing Plate",
+                "Pigtail Anchors - For Steel",
+                "Pigtail Anchors - For Timber",
+                "Purlin Clips",
+                {
+                  "GroupName": "Screwbolts",
+                  "Categories": [
+                    "Countersunk Head",
+                    "Eyebolt Head",
+                    "Swag Hook Head",
+                    "Flanged Hex Head",
+                    "Countersunk Undercut Head",
+                    "Hex Head",
+                    "Tie Down Head"
+                  ]
+                },
+                { "GroupName": "Screwbolts - Promo", "Categories": ["Flanged Hex Head"] },
+                { "GroupName": "Screwbolts - Threaded Rod - ZP", "Categories": ["Threaded Rod Head"] },
+                "Self Drilling Eye Purlin",
+                { "GroupName": "Splitz Anchor", "Categories": ["Countersunk Head", "Mushroom Head"] },
+                {
+                  "GroupName": "Suspension Anchor",
+                  "Categories": ["Suspension Head", "Tie Wire Head", "Eclipse Threaded Rod Head"]
+                }
+              ]
+            },
+            {
+              "GroupName": "Heavy Duty Anchoring",
+              "Categories": [
+                { "GroupName": "High Load Safety Anchor", "Categories": ["Hex Head"] },
+                { "GroupName": "Wedge Anchor", "Categories": ["Hex Head"] },
+                { "GroupName": "Wedge Anchor - 2 Nuts", "Categories": ["Hex Head"] },
+                { "GroupName": "Wedge Anchor ETA Approved", "Categories": ["Hex Head"] }
+              ]
+            }
+          ]
+        },
+        { "GroupName": "Chemical Anchoring", "Categories": [] },
+        { "GroupName": "Gas & Powder Actuated Tools", "Categories": [] },
+        { "GroupName": "Hollow Wall Fixings", "Categories": [] }
+      ]
+    },
+    { "GroupName": "Rivets", "ImageUrl": "./content/Rivets_black.svg", "CategoryGroupName": "Range", "Categories": [] },
+    { "GroupName": "Screws", "ImageUrl": "./content/Screws_black.svg", "CategoryGroupName": "Range", "Categories": [] },
+    {
+      "GroupName": "Bolts & Nuts",
+      "ImageUrl": "./content/Bolts_And_Nuts_And_Washers_black.svg",
+      "CategoryGroupName": "Range",
+      "Categories": []
+    },
+    {
+      "GroupName": "Drilling",
+      "ImageUrl": "./content/Drilling_black.svg",
+      "CategoryGroupName": "Range",
+      "Categories": []
+    },
+    {
+      "GroupName": "Sealants",
+      "ImageUrl": "./content/Silicone_And_Adhesives_black.svg",
+      "CategoryGroupName": "Range",
+      "Categories": []
+    },
+    { "GroupName": "Nails", "ImageUrl": "./content/Nails_black.svg", "CategoryGroupName": "Range", "Categories": [] },
+    {
+      "GroupName": "Miscellaneous",
+      "ImageUrl": "./content/Miscellaneous_black.svg",
+      "CategoryGroupName": "Range",
+      "Categories": []
+    },
+    {
+      "GroupName": "Eclipse",
+      "ImageUrl": "./content/Anchoring_black.svg",
+      "CategoryGroupName": "Range",
+      "Categories": []
+    },
+    {
+      "GroupName": "Merchandising",
+      "ImageUrl": "./content/Anchoring_black.svg",
+      "CategoryGroupName": "Range",
+      "Categories": []
+    },
+    {
+      "GroupName": "Packaging",
+      "ImageUrl": "./content/Anchoring_black.svg",
+      "CategoryGroupName": "Range",
+      "Categories": []
+    },
+    {
+      "GroupName": "Packers",
+      "ImageUrl": "./content/Anchoring_black.svg",
+      "CategoryGroupName": "Range",
+      "Categories": []
+    },
+    {
+      "GroupName": "Small Packs",
+      "ImageUrl": "./content/Anchoring_black.svg",
+      "CategoryGroupName": "Range",
+      "Categories": []
+    }
+  ]
+}

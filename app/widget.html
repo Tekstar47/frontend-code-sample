@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,700,900&display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Roboto Condensed:400,700,900&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="output.css" />
+    <meta http-equiv="Content-Security-Policy" content="default-src * self blob: data: gap:; style-src * self 'unsafe-inline' blob: data: gap:; script-src * 'self' 'unsafe-eval' 'unsafe-inline' blob: data: gap:; object-src * 'self' blob: data: gap:; img-src * self 'unsafe-inline' blob: data: gap:; connect-src self * 'unsafe-inline' blob: data: gap:; frame-src * self blob: data: gap:;">
+  </head>
+  <body class="bg-client-background flex flex-col">
+    <div class="fixed w-full">
+      <div
+        id="messageBanner"
+        class="-translate-x-1/2 top-0 left-1/2 border border-slate-300 shadow-lg shadow-slate-500 rounded py-4 px-6 z-[1000] mt-4 hidden"
+      ></div>
+    </div>
+    <div id="wsCategoriesContainer" class="bg-white"></div>
+    <div id="wsContent" class="flex-1 py-4 px-0 lg:p-4">
+      <div id="wsContentTableBanner" class="bg-client-table-banner py-2">
+        <span id="wsContentTableBannerTitle" class="ml-4 text-slate-50"></span>
+      </div>
+      <div>
+        <div class="flex">
+          <div id="wsFilterContainer" class="bg-client-background z-20 static mr-4 w-64 block text-sm">
+            <div id="wsFilterContainerCategoryContainer" class="bg-white rounded min-h-32 mt-4 p-4">
+              <h3 id="wsFilterContainerCategoryListTitle" class="font-bold"></h3>
+              <ul id="wsFilterContainerCategoryList"></ul>
+            </div>
+            <div id="wsFilterContainerCategoryGroupNameContainer" class="bg-white rounded md:mt-4 p-4 hidden">
+              <h3 id="wsFilterContainerCategoryGroupNameListTitle" class="font-bold"></h3>
+              <ul id="wsFilterContainerCategoryGroupNameList"></ul>
+            </div>
+
+            <!-- Low level filters -->
+            <div
+              id="wsFilterContainerProductFiltersContainer"
+              class="bg-white rounded mr-4 w-64 mt-4 p-4 hidden"
+            ></div>
+          </div>
+          <div id="wsTableContainer" class="w-full overflow-x-auto bg-client-background">
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+  <script src="https://kit.fontawesome.com/2f54a5bd1c.js" crossorigin="anonymous"></script>
+  <script src="https://js.zohostatic.com/creator/widgets/version/1.0/widgetsdk-min.js"></script>
+  <script src="config.js"></script>
+  <script src="utils.js"></script>
+  <script src="template.js"></script>
+  <script src="apiConnection.js"></script>
+  <script src="index.js"></script>
+</html>
